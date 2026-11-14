@@ -1,0 +1,13 @@
+# Dependencies(root, backend, frontend and root)
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# prod builds & logs
+build/
+dist/
+npm-debug.log*
+
+# mac sys files
+.DS_Store
